@@ -4,7 +4,7 @@ import java.util.Vector;
 
 public class Client {
 
-	 public Client(String nom,int numClient , String prenom, String type ) {
+   public Client(String nom,int numClient , String prenom, String type ) {
 			super();
 			this.nom = nom;
 			this.prenom = prenom;
